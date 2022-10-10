@@ -33,10 +33,10 @@ Berikut prosedur yang harus Anda ikuti saat melakukan mutasi kendaraan di Samsat
 6. Bawalah hasil cek fisik tersebut ke loket pengesahan cek fisik
 7. Lanjutkan dengan mendatangi loket pendaftaran mutasi keluar di dalam gedung Samsat untuk mendaftarkan mutasi kendaraan anda
 8. Serahkan seluruh berkas dan persyaratan mutasi ke petugas di loket pendaftaran
-9. Setelah selesai, lakukan pembayaran PNBP Cabut Berkas Mutasi Keluar di loket kasir dengan jumlah yang sudah ditentukan
+9. Setelah selesai, lakukan pembayaran *PNBP Cabut Berkas Mutasi Keluar* di loket kasir dengan jumlah yang sudah ditentukan
 10. Lalu, ambillah surat keterangan cabut berkas/resi cabut berkas yang diberikan petugas
 11. Datanglah kembali ke Samsat sesuai dengan tanggal yang telah ditentukan untuk mengambil berkas anda, jangan lupa bawa resi
-12. Jika ada PKB tertunggak pada saat pengambilan dokumen cabut Berkas maka harus dibayar pada saat Cabut Berkas
+12. Jika ada *PKB tertunggak* pada saat pengambilan dokumen cabut Berkas maka harus dibayar pada saat Cabut Berkas
 13. 
 
 ## Mutasi Keluar 1
@@ -54,8 +54,21 @@ Berikut prosedur yang harus Anda ikuti saat melakukan mutasi kendaraan di Samsat
 11. di loket Mutasi Luar Daerah akan dicek ulang dan kita dipanggil dan ditanyakan nomer HP kita, menunggu 15 menit
 12. Kita akan diminta membayar PNBP Cabut Berkas Mutasi Keluar dan dikasih bukti bayar PNBP, semua berkas diserahkan dan diberi pengganti STNK & BPKB asli krn yg asli sdg di proses, diberi surat permohonan mutasi
 13. Kita menunggu 6 - 8 minggu utk mendapat berkas mutasi keluar
+
 ## Mutasi Masuk 1
 ![My Image](https://github.com/Ianagung/tutorialurusmutasibaliknama/blob/1e3160de135ac07781154fba80122801cd1f1bd8/images/MutasiMasuk.jpg)
+1. Cek Fisik Ulang utk Mutasi Masuk
+2. Masukkan berkas di loket Pendaftaran Mutasi Masuk, dpat resi
+3. Menunggu 1 bulan
+4. Datang ke samsat bawa resi penerimaan mutasi
+5. Isi Formulir SPRKB, Surat Permohonan Reg Kend Bermotor & Formulir TNKB
+6. *Pembayaran BBN2 (Mobil Bekas) & PNBP Bikin BPKB*, dapat resi ambil BPKB di Polres
+7. *Pembayaran Pajak, PNBP Plat, STNK, Denda* di kasir BJB
+8. Ke Loket STNK untuk ambil STNK baru
+9. Bawa bukti bayar TNKB, ambil TNKB / Plat Nomor Baru
+8. Setelah 1 bulan Ambil BPKB di Polres Bandung
+
+
 # Biaya
 ## Menghitung Biaya Mutasi Keluar 1
 1. Biaya Cek Fisik + Loket Pendaftaran: 35rb
