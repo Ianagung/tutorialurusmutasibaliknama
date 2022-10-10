@@ -6,7 +6,7 @@ Siapkan dokumen berikut
 3. KTP Asli Pe milik baru
 4. Kwitansi Pembelian + Materai, bikin sendiri kwitansi pembelian/penjualan mobil di rumah di rumah dikasih materai lihat contoh di yutub bukan kwitansi dari dealer
 5. Kertas Faktur jangan disertakan di BPKB
-6. Fotokopi masing2 berkas 2 lembar ditaruh Map Kertas
+6. Fotokopi masing2 berkas 3 rangkap ditaruh Map Kertas
 7. Bawa Pulpen sendiri, warna hitam
 8. Asli dan fotokopi cek fisik
 # Proses
@@ -17,8 +17,10 @@ Siapkan dokumen berikut
 4. pada hari H tunjukkan QR Code ke petugas Samsat
 5. Utk Layanan Cek Fisik, siapkan QR code sebelumnya
 6. Proses cabut berkas harus sesuai lokai kantor menerbitkan STNK, setelah cabut berkas selesai daftar lagi ke Si Uwa utk mendapat kode booking cek fisik, lokasi cek fisik kendaraan bandung di SAMSAT Sutta
-7. cek fisik fi Samsat Soetta, dan diverifikasi
-8. Penyerahan BPKB ke loket 2 penyerahan BPKB
+7. Datang ke samsat lalu ambil formulir di loket formulir lalu daftar cek fisik, dan diverifikasi
+   - Jadwal: Senin-Kamis 08-11.30 Jumat-Sabtu 08-10.30
+8. Pendaftaran Penyerahan BPKB ke loket 2 penyerahan BPKB 
+9. Cek Pajak Progresif
 9. bayar di loket 1 BNI
 10 Balik lagi ke loket 2 BPKB
 ## Mutasi Keluar 1
@@ -40,7 +42,7 @@ Siapkan dokumen berikut
 1. Biaya Cek Fisik + Loket Pendaftaran: 35rb
 2. Struk Fiskal, semua denda + pajak kita yg belum dibayar:
    - Pajak Livina: 1.9 juta
-3. Biaya Balik nama / BBN di loket mutasi luar daerah: 250rb
+3. PNBP cabut Berkas Mutasi Keluar di loket mutasi luar daerah: 250rb
    - PNBP mutasi keluar sebesar 150.000 untuk kendaraan roda 2 dan 250.000 untuk kendaraan roda 4
 ## Pertanyaan
 1. Berapa Biaya Urus BBN + Mutasi?
