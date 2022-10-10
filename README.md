@@ -10,7 +10,7 @@ Siapkan dokumen berikut
 7. Bawa Pulpen sendiri, warna hitam
 8. Asli dan fotokopi cek fisik
 # Proses
-## Pendaftaran Mutasi di Samsat Bandung
+## Pendaftaran Online Mutasi di Samsat Bandung
 1. Daftar antrian online layanan samsat via WA 081221122021 dengan sapaan Sampurasun/punten/kata apa saja
 2. IKuti petunjuk sesuai jawaban dari Si Uwa dg mengetikkan urutan nomor layanan yg dituju, utk Mutasi pilih no.5 Booking Layanan Mutasi
 3. Pastikan mendapat QR code
@@ -19,10 +19,22 @@ Siapkan dokumen berikut
 6. Proses cabut berkas harus sesuai lokai kantor menerbitkan STNK, setelah cabut berkas selesai daftar lagi ke Si Uwa utk mendapat kode booking cek fisik, lokasi cek fisik kendaraan bandung di SAMSAT Sutta
 7. Datang ke samsat lalu ambil formulir di loket formulir lalu daftar cek fisik, dan diverifikasi
    - Jadwal: Senin-Kamis 08-11.30 Jumat-Sabtu 08-10.30
-8. Pendaftaran Penyerahan BPKB ke loket 2 penyerahan BPKB 
-9. Cek Pajak Progresif
-9. bayar di loket 1 BNI
-10 Balik lagi ke loket 2 BPKB
+
+## Cara Pelaksanaan Mutasi Motor dan Mobil Bandung
+
+Berikut prosedur yang harus Anda ikuti saat melakukan mutasi kendaraan di Samsat Bandung
+1. Datanglah ke Samsat dimana kendaraan anda terdaftar dengan membawa seluruh berkas persyaratan yang telah disebutkan di atas
+2. Ambil nomor antrian dan fomulir untuk melakukan cek fisik kendaraan
+3. Isilah formulir tersebut sesuai dengan data anda, dan pastikan tidak ada yang salah
+4. Setelah selesai, bawalah kendaraan anda ke area ceka fisik untuk melakukan cek fisik
+5. Setelah selesai melakukan cek fisik, anda akan diberikan hasil cek fisik oleh petugas Samsat
+6. Bawalah hasil cek fisik tersebut ke loket pengesahan cek fisik
+7. Lanjutkan dengan mendatangi loket pendaftaran mutasi keluar di dalam gedung Samsat untuk mendaftarkan mutasi kendaraan anda
+8. Serahkan seluruh berkas dan persyaratan mutasi ke petugas di loket pendaftaran
+9. Setelah selesai, lakukan pembayaran di loket kasir dengan jumlah yang sudah ditentukan
+10. Lalu, ambillah surat keterangan cabut berkas yang diberikan petugas
+11. Datanglah kembali ke Samsat sesuai dengan tanggal yang telah ditentukan untuk mengambil berkas anda
+
 ## Mutasi Keluar 1
 ![My Image](https://github.com/Ianagung/tutorialurusmutasibaliknama/blob/1e3160de135ac07781154fba80122801cd1f1bd8/images/MutasiKeluar.jpg)
 1. Bawa kendaraan ke samsat awal
