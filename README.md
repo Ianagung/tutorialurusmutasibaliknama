@@ -47,7 +47,30 @@ Siapkan dokumen berikut
    - Pajak Livina: 1.9 juta
 3. PNBP cabut Berkas Mutasi Keluar di loket mutasi luar daerah: 250rb
    - PNBP mutasi keluar sebesar 150.000 untuk kendaraan roda 2 dan 250.000 untuk kendaraan roda 4
-## Pertanyaan
-1. Berapa Biaya Urus BBN + Mutasi?
-2. Proses apa saja?
-4. Simulasi Biaya?
+## Simulasi Biaya
+Contoh 1 Perhitungan mutasi masuk
+
+Kumar memiliki mobil  Honda Jazz yang merupakan mobil pertama miliknya akan diproses mutasi masuk ke Sleman, proses mutasi keluar sudah selesai tanggal 10 September 2021 dan 2 hari berikutnya akan didaftarkan mutasi masuk. Kendaraan tersebut berasal dari Jawa Tengah. Kumar mendapatkan informsi Nilai Jual Kendaraannya di DIY dari Admin Samsat Sleman sebesar 150.000.000 (tabel NJKB 2021) Maka Perhitungan biaya mutasi masuk di Sleman sebagai berikut:
+
+1. Bea Balik  Nama = 1 % x 150.000.000 = 1.500.000
+2. Pokok Pajak = 1,5 % x 150.000.000 x 1.050 = 2.362.500
+3. SW Jasa Raharja = 143.000
+4. PNPB BPKB = 375.000
+5. PNBP STNK = 200.000
+6. PNBP Plat Nomor =100.000
+7. TOTAL = 4.680.500
+
+###Contoh 2 Perhitungan mutasi masuk
+
+Erma membeli Sepeda motor dari Gunungkidul dan sudah selesai cabut berkas pada tanggal 5 September 2021. Pada tanggal 6 September 2021 Erma mendaftarkan mutasi masuk ke Sleman. Kendaraan tersebut masa pajaknya masih berlaku sampai tanggal  10 Desember 2021 (sisa 3 bulan masa berlaku) dengan pokok pajak 150.000. maka perhitungan mutasi masuknya sebagai berikut:
+
+1. Bea Balik  Nama = 0,667 x 150.000 = 100.000
+2. Pokok Pajak = 150.000 - (3/12 X 150.000) =  112.500
+3. SW Jasa Raharja = 143.000 -(3/12 X 35.000) =  26.300 (dibulatkan ke ratusan rupiah)
+4. PNPB BPKB = 225.000
+5. PNBP STNK = 100.000
+6. PNBP Plat Nomor =60.000
+7. TOTAL =  623.800
+
+## Pertanyaan Belum dijawab
+1. 
