@@ -34,8 +34,10 @@ Berikut prosedur yang harus Anda ikuti saat melakukan mutasi kendaraan di Samsat
 7. Lanjutkan dengan mendatangi loket pendaftaran mutasi keluar di dalam gedung Samsat untuk mendaftarkan mutasi kendaraan anda
 8. Serahkan seluruh berkas dan persyaratan mutasi ke petugas di loket pendaftaran
 9. Setelah selesai, lakukan pembayaran PNBP Cabut Berkas Mutasi Keluar di loket kasir dengan jumlah yang sudah ditentukan
-10. Lalu, ambillah surat keterangan cabut berkas yang diberikan petugas
-11. Datanglah kembali ke Samsat sesuai dengan tanggal yang telah ditentukan untuk mengambil berkas anda
+10. Lalu, ambillah surat keterangan cabut berkas/resi cabut berkas yang diberikan petugas
+11. Datanglah kembali ke Samsat sesuai dengan tanggal yang telah ditentukan untuk mengambil berkas anda, jangan lupa bawa resi
+12. Jika ada PKB tertunggak pada saat pengambilan dokumen cabut Berkas maka harus dibayar pada saat Cabut Berkas
+13. 
 
 ## Mutasi Keluar 1
 ![My Image](https://github.com/Ianagung/tutorialurusmutasibaliknama/blob/1e3160de135ac07781154fba80122801cd1f1bd8/images/MutasiKeluar.jpg)
