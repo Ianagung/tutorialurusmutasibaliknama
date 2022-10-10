@@ -4,15 +4,16 @@ Siapkan dokumen berikut
 1. STNK asli
 2. BPKB Asli
 3. KTP Asli Pe milik baru
-4. Kwitansi Pembelian + Materai
+4. Kwitansi Pembelian + Materai, bikin sendiri kwitansi pembelian/penjualan mobil di rumah di rumah dikasih materai lihat contoh di yutub bukan kwitansi dari dealer
 5. Kertas Faktur jangan disertakan di BPKB
 6. Fotokopi masing2 berkas 2 lembar ditaruh Map Kertas
+7. Bawa Pulpen sendiri, warna hitam
 # Proses
 ## Mutasi Keluar 1
 1. Bawa kendaraan ke samsat awal
-2. Menuju bagian cek fisik di samsat, tidak perlu daftar dahulu, petugas akan cek fungsi kendaraan secara teliti maka harap disiapkan
+2. Menuju bagian cek fisik di samsat di Loket 1 Layanan BPKB, tidak perlu daftar dahulu, petugas akan cek fungsi kendaraan secara teliti maka harap disiapkan, kendaraan jangan diparkir langsung ke bagian cek fisik
 3. Petugas akan memberikan berkas cek fisik + kita difoto dg kendaraan tersebut, berkas jadikan satu
-4. Bawa semua berkas ke loket pendaftaran utk di cek dan di verifikasi, menunggu 15 - 30 menit
+4. Bawa semua berkas ke loket pendaftaran loket 3 permohonan pencabutan berkas BPKB,utk di cek dan di verifikasi, menunggu 15 - 30 menit
 5. Kita akan dipanggil lalu kita diberi berkas dan disuruh menuju loket mutasi luar daerah.
 6. Berkas diserahkan ke loket mutasi luar daerah untuk di verifikasi dan menunggu 10 menit
 7. Hasil Verifikasi & Berkas kita akan diberikan dan diarahkan ke loket fiskal
@@ -26,7 +27,8 @@ Siapkan dokumen berikut
 ## Mutasi Keluar 1
 1. Biaya Cek Fisik + Loket Pendaftaran: 35rb
 2. Struk Fiskal, semua denda + pajak kita yg belum dibayar:
-3. Biaya Balik nama / BBN di loket mutasi luar daerah: 600rb
+3. Biaya Balik nama / BBN di loket mutasi luar daerah: 250rb
+   - PNBP mutasi keluar sebesar 150.000 untuk kendaraan roda 2 dan 250.000 untuk kendaraan roda 4
 ## Pertanyaan
 1. Berapa Biaya Urus BBN + Mutasi?
 2. Proses apa saja?
