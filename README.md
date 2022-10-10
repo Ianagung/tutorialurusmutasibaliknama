@@ -6,9 +6,11 @@ Siapkan dokumen berikut
 3. KTP Asli Pemilik baru
 4. Kwitansi Pembelian + Materai, bikin sendiri kwitansi pembelian/penjualan mobil di rumah di rumah dikasih materai lihat contoh di yutub bukan kwitansi dari dealer
 5. Kertas Faktur jangan disertakan di BPKB
-6. Fotokopi masing2 berkas 3 rangkap ditaruh Map Kertas
+6. Fotokopi masing2 berkas 4 rangkap ditaruh Map Kertas
 7. Bawa Pulpen sendiri, warna hitam
 8. Asli dan fotokopi cek fisik
+9. Bukti Pelunasan PKB/SWDKLLJ Tahun Terakhir
+10. Hasil Cek Fisik (bisa dilakukan di Samsat tujuan : cek Fisik Bantuan)
 # Proses
 ## Pendaftaran Online Mutasi di Samsat Bandung
 1. Daftar antrian online layanan samsat via WA 081221122021 dengan sapaan Sampurasun/punten/kata apa saja
