@@ -3,7 +3,7 @@
 Siapkan dokumen berikut
 1. STNK asli
 2. BPKB Asli
-3. KTP Asli Pe milik baru
+3. KTP Asli Pemilik baru
 4. Kwitansi Pembelian + Materai, bikin sendiri kwitansi pembelian/penjualan mobil di rumah di rumah dikasih materai lihat contoh di yutub bukan kwitansi dari dealer
 5. Kertas Faktur jangan disertakan di BPKB
 6. Fotokopi masing2 berkas 3 rangkap ditaruh Map Kertas
@@ -24,6 +24,7 @@ Siapkan dokumen berikut
 9. bayar di loket 1 BNI
 10 Balik lagi ke loket 2 BPKB
 ## Mutasi Keluar 1
+![My Image](https://github.com/Ianagung/tutorialurusmutasibaliknama/blob/1e3160de135ac07781154fba80122801cd1f1bd8/images/MutasiKeluar.jpg)
 1. Bawa kendaraan ke samsat awal
 2. Menuju bagian cek fisik di samsat di Loket 1 Layanan BPKB, tidak perlu daftar dahulu, petugas akan cek fungsi kendaraan secara teliti maka harap disiapkan, kendaraan jangan diparkir langsung ke bagian cek fisik
 3. Petugas akan memberikan berkas cek fisik + kita difoto dg kendaraan tersebut, berkas jadikan satu
@@ -37,6 +38,8 @@ Siapkan dokumen berikut
 11. di loket Mutasi Luar Daerah akan dicek ulang dan kita dipanggil dan ditanyakan nomer HP kita, menunggu 15 menit
 12. Kita akan diminta membayar BBN dan dikasih bukti bayar BBN, semua berkas diserahkan dan diberi pengganti STNK & BPKB asli krn yg asli sdg di proses, diberi surat permohonan mutasi
 13. Kita menunggu 6 - 8 minggu utk mendapat berkas mutasi keluar
+## Mutasi Masuk 1
+![My Image](https://github.com/Ianagung/tutorialurusmutasibaliknama/blob/1e3160de135ac07781154fba80122801cd1f1bd8/images/MutasiMasuk.jpg)
 # Biaya
 ## Mutasi Keluar 1
 1. Biaya Cek Fisik + Loket Pendaftaran: 35rb
