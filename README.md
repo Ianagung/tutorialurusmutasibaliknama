@@ -144,6 +144,7 @@ Erma membeli Sepeda motor dari Gunungkidul dan sudah selesai cabut berkas pada t
 
 ## Urus Mutasi Lintas Provinsi
 1. Di saat mutasi masuk lakukan Crosscheck ke POLDA Provinsi Samsat tujuan
+2. ref : https://ijoijonyajuliha.wordpress.com/2020/07/31/urus-mutasi-kendaraan-masuk-beda-provinsi-di-jawa-timur/
 
 ## Pertanyaan Belum dijawab
 1. 
