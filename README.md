@@ -41,14 +41,52 @@ Siapkan dokumen berikut
 ## Mutasi Masuk 1
 ![My Image](https://github.com/Ianagung/tutorialurusmutasibaliknama/blob/1e3160de135ac07781154fba80122801cd1f1bd8/images/MutasiMasuk.jpg)
 # Biaya
-## Mutasi Keluar 1
+## Menghitung Biaya Mutasi Keluar 1
 1. Biaya Cek Fisik + Loket Pendaftaran: 35rb
 2. Struk Fiskal, semua denda + pajak kita yg belum dibayar:
    - Pajak Livina: 1.9 juta
 3. PNBP cabut Berkas Mutasi Keluar di loket mutasi luar daerah: 250rb
    - PNBP mutasi keluar sebesar 150.000 untuk kendaraan roda 2 dan 250.000 untuk kendaraan roda 4
+## Menghitung Biaya Mutasi Masuk
+
+Mutasi masuk adalah proses pendaftaran kendaraan yang berasal dari kabupaten/kota lain ke  samsat yang sesuai dengan alamat pemilik kendaraan saat ini. Proses mutasi masuk adalah kelanjutan dari proses mutasi keluar/cabut berkas dari samsat asal kendaraan terdaftar. Proses mutasi masuk hampir sama dengan  balik nama yang satu daerah, perbedaanya adalah pada perhitungan sisa masa pajak kendaraan, untuk kendaraan yang berasal dari daerah lain yang  masih satu provinsi maka jika ada sisa masa pajak kendaraan yang masih berlaku minimal 15 hari kalender maka tetap akan diperhitungkan sebagai pengurang pembayaran pajak.
+
+Tetapi jika kendaraan berasal dari daerah yang berbeda provinsi maka jika ada sisa masa berlaku pajak tidak diperhitungkan sebagai pengurang, wajib pajak pada proses balik nama membayar pajak setahun penuh.
+
+Biaya apa saja yang dibayarkan pada proses mutasi masuk? ada beberapa item yang harus dibayar oleh pemilik kendaraan saat mutasi masuk kendaraan bekas yaitu:
+
+1. Bea Balik Nama (jika tidak terjadi perubahan pemilik maka tidak dikenakan bea balik nama)
+2. Pajak Tahunan  
+3. SW Jasa Raharja 
+4. Penerimaan Negara Bukan Pajak (PNBP) BPKB 
+5. PNBP STNK 
+6. PNBP TNKB(Plat Nomor)
+
+Bea Balik Nama Kendaraan bekas di DIY dtetapkan dengan Peraturan Daerah  DIY  No 3 Tahun 2011 tentang Pajak Daerah pasal 22, ditetapkan sebesar 1 %  x Nilai Jual Kendaraan Bermotor. JIka Nilai Jual tidak diketahui maka untuk menentukan Bea Balik Nama dapat menggunakan pendekatan rumus sebagai berikut:
+
+1. Bea Balik nama sepeda motor = 0,667 x pokok pajak setahun (pokok pajak bisa dilihat pada bukti bayar pajak pada lembar belakang STNK)
+2. Bea Balik nama  mobil sedan  = 0,650  x pokok pajak setahun 
+3. Bea Balik nama mobil minibus dan jeep  = 0,635 x pokok pajak setahun
+4. Bea Balik nama mobil blind van, Pick up dan microbus  = 0,635 x pokok pajak setahun
+5. Bea Balik nama bus = 0,606 x pokok pajak setahun
+6. Bea Balik nama mobil Light truck dan Truck  = 0,513 x pokok pajak setahun
+
+Biaya Penerbitan/PNPB BPKB sebagai berikut:
+
+1. Kendaraan roda 2 dan 3 = 225.000
+2. Kendaraan roda 4 atau = 375.000
+
+Biaya Penerbitan/PNPB STNK sebagai berikut:
+
+1. Kendaraan roda 2 dan 3 =100.000
+2. Kendaraan roda 4 atau lebih  = 200.000
+
+Biaya Penerbitan/PNPB TNKB (Plat Nomor) sebagai berikut: 
+
+1. Kendaraan roda 2 dan 3 = 60.000
+2. Kendaraan roda 4 atau lebih = 100.000
 ## Simulasi Biaya
-Contoh 1 Perhitungan mutasi masuk
+### Contoh 1 Perhitungan mutasi masuk
 
 Kumar memiliki mobil  Honda Jazz yang merupakan mobil pertama miliknya akan diproses mutasi masuk ke Sleman, proses mutasi keluar sudah selesai tanggal 10 September 2021 dan 2 hari berikutnya akan didaftarkan mutasi masuk. Kendaraan tersebut berasal dari Jawa Tengah. Kumar mendapatkan informsi Nilai Jual Kendaraannya di DIY dari Admin Samsat Sleman sebesar 150.000.000 (tabel NJKB 2021) Maka Perhitungan biaya mutasi masuk di Sleman sebagai berikut:
 
@@ -60,7 +98,7 @@ Kumar memiliki mobil  Honda Jazz yang merupakan mobil pertama miliknya akan dipr
 6. PNBP Plat Nomor =100.000
 7. TOTAL = 4.680.500
 
-###Contoh 2 Perhitungan mutasi masuk
+### Contoh 2 Perhitungan mutasi masuk
 
 Erma membeli Sepeda motor dari Gunungkidul dan sudah selesai cabut berkas pada tanggal 5 September 2021. Pada tanggal 6 September 2021 Erma mendaftarkan mutasi masuk ke Sleman. Kendaraan tersebut masa pajaknya masih berlaku sampai tanggal  10 Desember 2021 (sisa 3 bulan masa berlaku) dengan pokok pajak 150.000. maka perhitungan mutasi masuknya sebagai berikut:
 
