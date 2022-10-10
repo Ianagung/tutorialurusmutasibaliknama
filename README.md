@@ -33,7 +33,7 @@ Berikut prosedur yang harus Anda ikuti saat melakukan mutasi kendaraan di Samsat
 6. Bawalah hasil cek fisik tersebut ke loket pengesahan cek fisik
 7. Lanjutkan dengan mendatangi loket pendaftaran mutasi keluar di dalam gedung Samsat untuk mendaftarkan mutasi kendaraan anda
 8. Serahkan seluruh berkas dan persyaratan mutasi ke petugas di loket pendaftaran
-9. Setelah selesai, lakukan pembayaran di loket kasir dengan jumlah yang sudah ditentukan
+9. Setelah selesai, lakukan pembayaran PNBP Cabut Berkas Mutasi Keluar di loket kasir dengan jumlah yang sudah ditentukan
 10. Lalu, ambillah surat keterangan cabut berkas yang diberikan petugas
 11. Datanglah kembali ke Samsat sesuai dengan tanggal yang telah ditentukan untuk mengambil berkas anda
 
@@ -50,7 +50,7 @@ Berikut prosedur yang harus Anda ikuti saat melakukan mutasi kendaraan di Samsat
 9. Struk dibawa ke bagian kasir dan dibayar dan kita dikasiih kwitansi pembayaran seperti pajak stnk
 10. kembali ke bagian Fiskal untuk memberikan kwitansi, menunggu 10 menit dan dipanggil dan kita diberi semua berkas dan diarahkan ke bagian mutasi luar daerah.
 11. di loket Mutasi Luar Daerah akan dicek ulang dan kita dipanggil dan ditanyakan nomer HP kita, menunggu 15 menit
-12. Kita akan diminta membayar BBN dan dikasih bukti bayar BBN, semua berkas diserahkan dan diberi pengganti STNK & BPKB asli krn yg asli sdg di proses, diberi surat permohonan mutasi
+12. Kita akan diminta membayar PNBP Cabut Berkas Mutasi Keluar dan dikasih bukti bayar PNBP, semua berkas diserahkan dan diberi pengganti STNK & BPKB asli krn yg asli sdg di proses, diberi surat permohonan mutasi
 13. Kita menunggu 6 - 8 minggu utk mendapat berkas mutasi keluar
 ## Mutasi Masuk 1
 ![My Image](https://github.com/Ianagung/tutorialurusmutasibaliknama/blob/1e3160de135ac07781154fba80122801cd1f1bd8/images/MutasiMasuk.jpg)
