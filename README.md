@@ -139,5 +139,7 @@ Erma membeli Sepeda motor dari Gunungkidul dan sudah selesai cabut berkas pada t
 6. PNBP Plat Nomor =60.000
 7. TOTAL =  623.800
 
+### Contoh 3 Perhitungan Mutasi Keluar Masuk Kab Subang - Kab Bandung Soreang
+![My Image](https://github.com/Ianagung/tutorialurusmutasibaliknama/blob/84d25df6938498e83f5e82fd58ebc1afdf83230d/images/BiayaMutasiKeluarMasuk.jpeg)
 ## Pertanyaan Belum dijawab
 1. 
